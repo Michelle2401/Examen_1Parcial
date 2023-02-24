@@ -17,9 +17,26 @@ namespace Ericka_Mendoza
             InitializeComponent();
         }
 
-        private void formulario1ToolStripMenuItem_Click(object sender, EventArgs e)
+        private void toolStripTabItem1_Click(object sender, EventArgs e)
         {
+            Formulario1 userForm1 = new Formulario1();
+            userForm1.MdiParent = this;
+            userForm1.Show();
 
+        }
+
+        private void toolStripTabItem2_Click(object sender, EventArgs e)
+        {
+            Formulario2 userForm2 = new Formulario2();
+            userForm2.MdiParent = this;
+            userForm2.Show();
+        }
+
+        private void toolStripTabItem3_Click(object sender, EventArgs e)
+        {
+            Formulario3 userForm3 = new Formulario3();
+            userForm3.MdiParent = this;
+            userForm3.Show();
         }
     }
 }
