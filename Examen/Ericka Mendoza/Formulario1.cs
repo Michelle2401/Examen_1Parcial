@@ -17,8 +17,11 @@ namespace Ericka_Mendoza
 
         private void calcularbutton_Click(object sender, EventArgs e)
         {
-           
+            //
+
            
         }
+
+        
     }
 }

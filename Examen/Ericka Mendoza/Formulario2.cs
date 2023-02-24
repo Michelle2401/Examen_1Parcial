@@ -37,5 +37,7 @@ namespace Ericka_Mendoza
             totaltextBox.Clear();
             nombretextBox.Clear();
         }
+
+        
     }
 }
