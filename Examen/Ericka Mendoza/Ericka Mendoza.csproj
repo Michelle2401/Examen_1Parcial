@@ -95,6 +95,9 @@
     <EmbeddedResource Include="Formulario2.resx">
       <DependentUpon>Formulario2.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formulario3.resx">
+      <DependentUpon>Formulario3.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
