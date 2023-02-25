@@ -141,7 +141,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Formulario2";
             this.Text = "Formulario2";
-           
+            
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -132,6 +132,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Formulario3";
             this.Text = "Formulario3";
+            
             ((System.ComponentModel.ISupportInitialize)(this.hastatexBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.desdetexBox)).EndInit();
             this.ResumeLayout(false);
