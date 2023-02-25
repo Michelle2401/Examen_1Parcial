@@ -19,9 +19,7 @@ namespace Ericka_Mendoza
 
         private void toolStripTabItem1_Click(object sender, EventArgs e)
         {
-            Formulario1 userForm1 = new Formulario1();
-            userForm1.MdiParent = this;
-            userForm1.Show();
+            
 
         }
 
